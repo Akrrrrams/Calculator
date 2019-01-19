@@ -11,6 +11,9 @@ public class calcullator {
     public static double divide(double num1 , double num2){
         return num1 / num2;
     }
+    public static double dividexx(double num1 , double num2){
+        return num1 / num2;
+    }
    
 
     public static void main(String[] args) {
